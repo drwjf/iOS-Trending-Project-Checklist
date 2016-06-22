@@ -1,6 +1,6 @@
 #GitHub Repository Mark
 
-## NetWorking for iOS
+## Networking for iOS
 * [AFNetWorking](https://github.com/AFNetworking/AFNetworking)
 * [Almofire](https://github.com/Alamofire/Alamofire)
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
@@ -36,6 +36,7 @@
 * [DGRunKeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)
 * [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [OLImageView](https://github.com/dtorres/OLImageView)
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
 
 ## Tools for iOS Development
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
