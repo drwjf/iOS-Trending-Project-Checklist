@@ -3,8 +3,10 @@
 ## NetWorking for iOS
 * [AFNetWorking](https://github.com/AFNetworking/AFNetworking)
 * [Almofire](https://github.com/Alamofire/Alamofire)
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * [Sync](https://github.com/hyperoslo/Sync)
+* [MonkeyKing](https://github.com/nixzhu/MonkeyKing)
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
@@ -12,8 +14,9 @@
 ## Swift Programming Language
 * [Swift](https://github.com/apple/swift)
 
-## AutoLayout for iOS
+## Wrapper Library for iOS
 * [Cartography](https://github.com/robb/Cartography)
+* [Locksmith](https://github.com/matthewpalmer/Locksmith)
 
 ## UI Improvement for iOS
 * [Charts](https://github.com/danielgindi/Charts)
@@ -26,6 +29,13 @@
 * [XLActionController](https://github.com/xmartlabs/XLActionController)
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker)
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)
+* [Neon](https://github.com/mamaral/Neon)
+* [Gifu](https://github.com/kaishin/Gifu)
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar)
+* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+* [DGRunKeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)
+* [PullToBounce](https://github.com/entotsu/PullToBounce)
+* [OLImageView](https://github.com/dtorres/OLImageView)
 
 ## Tools for iOS Development
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
