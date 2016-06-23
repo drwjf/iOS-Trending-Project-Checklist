@@ -16,7 +16,12 @@
 
 ## Wrapper Library for iOS
 * [Cartography](https://github.com/robb/Cartography)
+* [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+* [Toucan](https://github.com/gavinbunney/Toucan)
+* [GEOSwift](https://github.com/andreacremaschi/GEOSwift)
 * [Locksmith](https://github.com/matthewpalmer/Locksmith)
+* [Proposer](https://github.com/nixzhu/Proposer)
+* [Static](https://github.com/venmo/Static)
 
 ## UI Improvement for iOS
 * [Charts](https://github.com/danielgindi/Charts)
@@ -37,6 +42,16 @@
 * [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [OLImageView](https://github.com/dtorres/OLImageView)
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+* [Hokusai](https://github.com/ytakzk/Hokusai)
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
+* [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)
+* [SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
+* [GMStepper](https://github.com/gmertk/GMStepper)
+* [ParkedTextField](https://github.com/gmertk/ParkedTextField)
+* [MPCoachMarks](https://github.com/bubudrc/MPCoachMarks)
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
+* [Koloda](https://github.com/Yalantis/Koloda)
+* [UIImageColors](https://github.com/jathu/UIImageColors)
 
 ## Tools for iOS Development
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
