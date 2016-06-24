@@ -7,6 +7,7 @@
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * [Sync](https://github.com/hyperoslo/Sync)
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing)
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
@@ -22,6 +23,16 @@
 * [Locksmith](https://github.com/matthewpalmer/Locksmith)
 * [Proposer](https://github.com/nixzhu/Proposer)
 * [Static](https://github.com/venmo/Static)
+* [Formalist](https://github.com/seedco/Formalist)
+* [XLForm](https://github.com/xmartlabs/XLForm)
+* [SNRSearchIndex](https://github.com/indragiek/SNRSearchIndex)
+* [SwiftAddressBook](https://github.com/SocialbitGmbH/SwiftAddressBook)
+* [Bohr](https://github.com/DavdRoman/Bohr)
+* [Valet](https://github.com/square/Valet)
+* [GradientView](https://github.com/soffes/GradientView)
+* [GLPubSub](https://github.com/Glow-Inc/GLPubSub)
+* [Wormhole](https://github.com/nixzhu/Wormhole)
+* [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader)
 
 ## UI Improvement for iOS
 * [Charts](https://github.com/danielgindi/Charts)
@@ -52,9 +63,22 @@
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [Koloda](https://github.com/Yalantis/Koloda)
 * [UIImageColors](https://github.com/jathu/UIImageColors)
+* [FBAnnotationClustering](https://github.com/infinum/FBAnnotationClustering)
+* [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
+* [WYPopoverController](https://github.com/sammcewan/WYPopoverController)
+* [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)
+* [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController)
+* [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableViewSwift)
 
 ## Tools for iOS Development
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
+* [PinpointKit](https://github.com/Lickability/PinpointKit)
+* [Injection](https://github.com/johnno1962/injectionforxcode)
+* [Lin](https://github.com/questbeat/Lin)
+* [FontBlaster](https://github.com/ArtSabintsev/FontBlaster)
+* [DynamicColor](https://github.com/yannickl/DynamicColor)
+* [Slate](https://github.com/lord/slate)
+* [FiraCode](https://github.com/tonsky/FiraCode)
 
 ## SDK for iOS
 * [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit)
