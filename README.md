@@ -6,11 +6,13 @@
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * [Sync](https://github.com/hyperoslo/Sync)
+* [PINRemoteImage](https://github.com/pinterest/PINRemoteImage)
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing)
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
+* [Swift Package Manager](https://github.com/apple/swift-package-manager)
 
 ## Swift Programming Language
 * [Swift](https://github.com/apple/swift)
