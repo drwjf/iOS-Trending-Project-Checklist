@@ -2,6 +2,7 @@
 
 ## Networking for iOS
 * [AFNetWorking](https://github.com/AFNetworking/AFNetworking)
+* [Moya](https://github.com/Moya/Moya)
 * [Almofire](https://github.com/Alamofire/Alamofire)
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
@@ -19,7 +20,9 @@
 
 ## Wrapper Library for iOS
 * [Cartography](https://github.com/robb/Cartography)
+* [SnapKit](https://github.com/SnapKit/SnapKit)
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+* [Spring](https://github.com/MengTo/Spring)
 * [Toucan](https://github.com/gavinbunney/Toucan)
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift)
 * [Locksmith](https://github.com/matthewpalmer/Locksmith)
@@ -35,8 +38,10 @@
 * [GLPubSub](https://github.com/Glow-Inc/GLPubSub)
 * [Wormhole](https://github.com/nixzhu/Wormhole)
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader)
+* [Willow](https://https://github.com/Nike-Inc/Willow)
 
 ## UI Improvement for iOS
+* [Eureka](https://github.com/xmartlabs/Eureka)
 * [Charts](https://github.com/danielgindi/Charts)
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController)
@@ -71,8 +76,10 @@
 * [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController)
 * [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableViewSwift)
+* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
 
 ## Tools for iOS Development
+* [fastline](https://github.com/fastlane/fastlane)
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
 * [PinpointKit](https://github.com/Lickability/PinpointKit)
 * [Injection](https://github.com/johnno1962/injectionforxcode)
@@ -81,8 +88,13 @@
 * [DynamicColor](https://github.com/yannickl/DynamicColor)
 * [Slate](https://github.com/lord/slate)
 * [FiraCode](https://github.com/tonsky/FiraCode)
+* [SwiftLint](https://github.com/realm/SwiftLint)
+* [the silver searcher](https://github.com/ggreer/the_silver_searcher)
+* [mac-cli](https://github.com/guarinogabriel/mac-cli)
 
 ## SDK for iOS
 * [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit)
 
-
+## Testing framework for iOS
+* [Quick](https://github.com/Quick/Quick)
+* [SwiftCheck](https://github.com/typelift/SwiftCheck)
