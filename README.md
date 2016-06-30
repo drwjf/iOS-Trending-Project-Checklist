@@ -43,6 +43,7 @@
 ## UI Improvement for iOS
 * [Eureka](https://github.com/xmartlabs/Eureka)
 * [Charts](https://github.com/danielgindi/Charts)
+* [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController)
 * [FileBrowser](https://github.com/marmelroy/FileBrowser)
@@ -81,6 +82,7 @@
 ## Tools for iOS Development
 * [fastline](https://github.com/fastlane/fastlane)
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
+* [mogenerator](https://github.com/rentzsch/mogenerator)
 * [PinpointKit](https://github.com/Lickability/PinpointKit)
 * [Injection](https://github.com/johnno1962/injectionforxcode)
 * [Lin](https://github.com/questbeat/Lin)
