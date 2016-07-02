@@ -10,6 +10,8 @@
 * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage)
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing)
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
+* [Just](https://github.com/JustHTTP/Just)
+* [BrightFutures](https://github.com/Thomvis/BrightFutures)
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
@@ -21,12 +23,14 @@
 ## Wrapper Library for iOS
 * [Cartography](https://github.com/robb/Cartography)
 * [SnapKit](https://github.com/SnapKit/SnapKit)
+* [DeepLinkKit](https://github.com/button/DeepLinkKit)
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
 * [Spring](https://github.com/MengTo/Spring)
 * [Toucan](https://github.com/gavinbunney/Toucan)
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift)
 * [Locksmith](https://github.com/matthewpalmer/Locksmith)
 * [Proposer](https://github.com/nixzhu/Proposer)
+* [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [Static](https://github.com/venmo/Static)
 * [Formalist](https://github.com/seedco/Formalist)
 * [XLForm](https://github.com/xmartlabs/XLForm)
@@ -39,11 +43,17 @@
 * [Wormhole](https://github.com/nixzhu/Wormhole)
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader)
 * [Willow](https://https://github.com/Nike-Inc/Willow)
+* [MagicKit](https://github.com/aidansteele/MagicKit)
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
+* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer)
+* [IGInterfaceDataTable](https://github.com/facebookarchive/IGInterfaceDataTable)
 
 ## UI Improvement for iOS
 * [Eureka](https://github.com/xmartlabs/Eureka)
 * [Charts](https://github.com/danielgindi/Charts)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
+* [DropdownMenu](https://github.com/nmattisson/DropdownMenu)
+* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController)
 * [FileBrowser](https://github.com/marmelroy/FileBrowser)
@@ -78,8 +88,16 @@
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController)
 * [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableViewSwift)
 * [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
+* [MSCellAccessory](https://github.com/bitmapdata/MSCellAccessory)
+* [KSTokenView](https://github.com/khawars/KSTokenView)
+* [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer)
+* [Touchpose](https://github.com/toddreed/Touchpose)
+* [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation)
+* [MarkdownTextView](https://github.com/indragiek/MarkdownTextView)
+* [RichEditorView](https://github.com/cjwirth/RichEditorView)
 
-## Tools for iOS Development
+## Toolkits for iOS Development
 * [fastline](https://github.com/fastlane/fastlane)
 * [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
 * [mogenerator](https://github.com/rentzsch/mogenerator)
@@ -93,6 +111,9 @@
 * [SwiftLint](https://github.com/realm/SwiftLint)
 * [the silver searcher](https://github.com/ggreer/the_silver_searcher)
 * [mac-cli](https://github.com/guarinogabriel/mac-cli)
+* [json-server](https://github.com/typicode/json-server)
+* [zindex](https://github.com/mattgodbolt/zindex)
+* [Parsimmon](https://github.com/ayanonagon/Parsimmon)
 
 ## SDK for iOS
 * [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit)
@@ -100,3 +121,4 @@
 ## Testing framework for iOS
 * [Quick](https://github.com/Quick/Quick)
 * [SwiftCheck](https://github.com/typelift/SwiftCheck)
+* [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case)
