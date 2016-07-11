@@ -122,4 +122,8 @@
 ## Testing framework for iOS
 * [Quick](https://github.com/Quick/Quick)
 * [SwiftCheck](https://github.com/typelift/SwiftCheck)
+* [Expecta](https://github.com/specta/expecta)
+* [OCMockito](https://github.com/jonreid/OCMockito)
+* [OCHamcrest](https://github.com/hamcrest/OCHamcrest)
+* [Specta](https://github.com/specta/specta)
 * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case)
