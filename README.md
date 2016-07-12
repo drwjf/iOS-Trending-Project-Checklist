@@ -15,7 +15,9 @@
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 * [Swift Package Manager](https://github.com/apple/swift-package-manager)
+* [iOS-Framework](https://github.com/jverkoey/iOS-Framework)
 
 ## Swift Programming Language
 * [Swift](https://github.com/apple/swift)
