@@ -12,6 +12,7 @@
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 * [Just](https://github.com/JustHTTP/Just)
 * [BrightFutures](https://github.com/Thomvis/BrightFutures)
+* [Live](https://github.com/ltebean/Live)
 
 ## Dependency Manager for iOS
 * [Carthage](https://github.com/Carthage/Carthage)
@@ -99,6 +100,10 @@
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation)
 * [MarkdownTextView](https://github.com/indragiek/MarkdownTextView)
 * [RichEditorView](https://github.com/cjwirth/RichEditorView)
+* [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition)
+* [EmojiTextView](https://github.com/fastred/EmojiTextView)
+* [PopupDialog](https://github.com/Orderella/PopupDialog)
+* [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
 
 ## Toolkits for iOS Development
 * [fastline](https://github.com/fastlane/fastlane)
