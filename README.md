@@ -104,6 +104,7 @@
 * [EmojiTextView](https://github.com/fastred/EmojiTextView)
 * [PopupDialog](https://github.com/Orderella/PopupDialog)
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM)
 
 ## Toolkits for iOS Development
 * [fastline](https://github.com/fastlane/fastlane)
