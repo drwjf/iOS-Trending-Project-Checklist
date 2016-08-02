@@ -123,6 +123,7 @@
 * [json-server](https://github.com/typicode/json-server)
 * [zindex](https://github.com/mattgodbolt/zindex)
 * [Parsimmon](https://github.com/ayanonagon/Parsimmon)
+* [Synx](https://github.com/venmo/synx)
 
 ## SDK for iOS
 * [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit)
