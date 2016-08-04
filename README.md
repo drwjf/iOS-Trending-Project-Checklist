@@ -124,6 +124,7 @@
 * [zindex](https://github.com/mattgodbolt/zindex)
 * [Parsimmon](https://github.com/ayanonagon/Parsimmon)
 * [Synx](https://github.com/venmo/synx)
+* [Chameleon](https://github.com/ViccAlexander/Chameleon)
 
 ## SDK for iOS
 * [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit)
