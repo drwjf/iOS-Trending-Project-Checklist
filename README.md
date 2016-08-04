@@ -55,6 +55,7 @@
 ## UI Improvement for iOS
 * [Eureka](https://github.com/xmartlabs/Eureka)
 * [Charts](https://github.com/danielgindi/Charts)
+* [iCarousel](https://github.com/nicklockwood/iCarousel)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [DropdownMenu](https://github.com/nmattisson/DropdownMenu)
 * [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
