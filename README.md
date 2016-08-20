@@ -109,7 +109,7 @@
 
 ## Toolkits for iOS Development
 * [fastline](https://github.com/fastlane/fastlane)
-* [NSLogger](https://github.com/jessesquires/JSQMessagesViewController)
+* [NSLogger](https://github.com/fpillet/NSLogger)
 * [NWPusher](https://github.com/noodlewerk/NWPusher)
 * [mogenerator](https://github.com/rentzsch/mogenerator)
 * [PinpointKit](https://github.com/Lickability/PinpointKit)
